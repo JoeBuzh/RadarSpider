@@ -1,5 +1,5 @@
 # RadarSpider
-A web radar data collector based on Spider.
+A web radar data collector based on Scrapy.
 
 ### Introduction
 + This is a web collector for fetching radar data images.
